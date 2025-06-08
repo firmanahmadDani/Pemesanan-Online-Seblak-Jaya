@@ -1,0 +1,40 @@
+{
+    "penjual": "wira",
+    "total": 74000,
+    "pembeli": [
+        {
+            "nomor": 1,
+            "nama": "adit",
+            "kuah": "Nyemek",
+            "rasa": "Gurih",
+            "level_mie": "3",
+            "level_seblak": "4"
+        }
+    ],
+    "items": [
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Mie Jebew Original",
+            "kategori": "Mie Jebew",
+            "jumlah": 1,
+            "subtotal": 10000
+        },
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Toping Sosis",
+            "kategori": "Mie Jebew",
+            "jumlah": 22,
+            "subtotal": 44000
+        },
+        {
+            "pembeli_ke": 1,
+            "nama_pembeli": "adit",
+            "nama_item": "Pentol",
+            "kategori": "Seblak",
+            "jumlah": 20,
+            "subtotal": 20000
+        }
+    ]
+}
